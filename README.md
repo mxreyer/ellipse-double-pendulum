@@ -20,4 +20,4 @@ A point mass $m$ slides frictionless on an elliptical wire. We are given the mas
 
 ![Animation](https://raw.githubusercontent.com/mxreyer/ellipse-double-pendulum/main/ellipse-point-animation-thumb.gif)
 
-![Trajectory](https://raw.githubusercontent.com/mxreyer/ellipse-double-pendulum/main/point-animation-thumb.gif)]
+![Trajectory](https://raw.githubusercontent.com/mxreyer/ellipse-double-pendulum/main/point-animation-thumb.gif)
