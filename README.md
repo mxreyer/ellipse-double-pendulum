@@ -1,4 +1,4 @@
-# Variation of the Double Pendulum: A Bead on an Elliptical Wire
+# Variation of the Double Pendulum: Bead on Elliptical Wire
 
 ## The Problem
 
