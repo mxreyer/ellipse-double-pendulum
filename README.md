@@ -4,7 +4,7 @@
 
 A point mass $m$ slides frictionless on an elliptical wire. We are given the mass distribution $\rho$ or the center-of-mass $(x_0,y_0)$, total mass $M$, and moment of inertia $I$ of the elliptical wire. The elliptical wire lies within a vertical $x$-$y$ plane and rotates freely around an axis (in $z$-direction) around its center. It is connected to a torsional spring with constant $D$.
 
-## What is done in these scripts
+## What is Done in These Scripts
 
 - `angular-coordinates.nb`: We formulate the Lagrangian of the system,
   find the Euler-Lagrange equations. We also analyze the system for
