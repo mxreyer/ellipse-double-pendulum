@@ -18,6 +18,8 @@ A point mass $m$ slides frictionless on an elliptical wire. We are given the mas
 
 ## Some Results
 
+For half-axes $a=1\text{~m}, b=2\text{~m}$, point mass $m=1\text{~kg}$, wire mass $M=1\text{~kg}$,  wire COM coordinates $x_0=1/2\text{~m}, y_0=0\text{~m}$, torsional spring constant $D=1\text{~N}$.
+
 ![Animation](https://raw.githubusercontent.com/mxreyer/ellipse-double-pendulum/main/ellipse-point-animation.gif)
 
 ![Trajectory](https://raw.githubusercontent.com/mxreyer/ellipse-double-pendulum/main/point-animation.gif)
